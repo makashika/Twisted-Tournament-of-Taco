@@ -861,7 +861,7 @@
         "Firecracker":{
           "Addons":[]},
         "Flashlight":{
-          "Addons":[]},
+          "Addons":[1,2,3,4]},
         "Med-Kit":{
           "Addons":[]},
         "Toolbox":{
