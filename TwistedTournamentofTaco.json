@@ -1214,7 +1214,7 @@
     {
       "Name":"The Twins",
       "KillerNotes":"Killer is temporarily replaced in the pool by Singularity.",
-      "IsDisabled":true,
+      "IsDisabled":false,
       "Map":[0],
       "BalanceTiers":[0],
       "SurvivorBalanceTiers":[0],
