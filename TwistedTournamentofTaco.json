@@ -1213,7 +1213,7 @@
       "KillerOfferings":[0,1]},
     {
       "Name":"The Twins",
-      "KillerNotes":"Killer is temporarily replaced in the pool by Singularity.",
+      "KillerNotes":"",
       "IsDisabled":false,
       "Map":[0],
       "BalanceTiers":[0],
@@ -1223,14 +1223,10 @@
       "KillerComboPerkBans":[],
       "SurvivorIndvPerkBans":[
         "1",
-        "21",
-        "34",
-        "36",
         "38",
         "39",
         "48",
         "57",
-        "61",
         "67",
         "69",
         "76",
@@ -1737,13 +1733,13 @@
       "KillerOfferings":[0,1]},
     {
       "Name":"The Singularity",
-      "KillerNotes":"this killer is temporarily placed in Twins's spot in their respective killer pool due to Twins being killswitched.",
+      "KillerNotes":"",
       "IsDisabled":false,
       "Map":[0],
       "BalanceTiers":[0],
       "SurvivorBalanceTiers":[0],
       "AntiFacecampPermitted":false,
-      "KillerIndvPerkBans":["151"],
+      "KillerIndvPerkBans":["151", "213"],
       "KillerComboPerkBans":[],
       "SurvivorIndvPerkBans":[
         "21",
@@ -1766,7 +1762,7 @@
       "KillerWhitelistedPerks":[],
       "KillerWhitelistedComboPerks":[],
       "AddonTiersBanned":[],
-      "IndividualAddonBans":[636,635,633],
+      "IndividualAddonBans":[636,635,637,638],
       "ItemWhitelist":[5,0],
       "AddonWhitelist":{
         "Firecracker":{
